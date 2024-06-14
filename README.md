@@ -5,4 +5,5 @@ It is pre-requist to have docker-desktop installed on system.
 
 **Commands:**
 1.docker pull yourusername/appium-image:latest
+
 2.docker run -d -p 4723:4723 appium-image:latest
